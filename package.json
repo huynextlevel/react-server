@@ -1,0 +1,22 @@
+{
+  "name": "server-deploy",
+  "version": "1.0.0",
+  "description": "Used for run react on server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynextlevel/react-server.git"
+  },
+  "author": "Huy Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huynextlevel/react-server/issues"
+  },
+  "homepage": "https://github.com/huynextlevel/react-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
